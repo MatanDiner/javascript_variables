@@ -1,2 +1,3 @@
 # javascript_variables
 I am working on it...
+Welcome to Javascript Variables project
